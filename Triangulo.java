@@ -1,4 +1,4 @@
-public class Triangulo {
+public class Triangulo implements Calculo {
 	private String name;
 	private double base;
 	private double altura;
